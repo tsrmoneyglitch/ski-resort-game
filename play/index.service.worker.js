@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795823876|3505017';
+const CACHE_VERSION = '1795825126|3937036';
 /** @type {string} */
 const CACHE_PREFIX = 'Ski Resort-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
